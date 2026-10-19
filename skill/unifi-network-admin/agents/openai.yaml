@@ -1,0 +1,6 @@
+interface:
+  display_name: "UniFi Network Administrator"
+  short_description: "Discover and diagnose UniFi networks safely"
+  default_prompt: "Use $unifi-network-admin to discover this UniFi environment and explain its current status and available health signals."
+policy:
+  allow_implicit_invocation: true
